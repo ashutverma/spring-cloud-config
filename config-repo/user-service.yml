@@ -1,0 +1,6 @@
+
+server:
+  port: 8081
+
+message:
+  text: Hello from Spring Cloud Config Server
